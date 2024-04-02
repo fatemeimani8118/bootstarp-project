@@ -1,6 +1,6 @@
 # bootstarp-project
 
-- [Demo Project](https://fatemeimani8118.github.io/my-first-project/)
+- [Demo Project](https://fatemeimani8118.github.io/bootstarp-project/)
 
 ![1](https://github.com/fatemeimani8118/bootstarp-project/assets/137331610/4d631fc6-6925-4366-bc0b-90586c759f39)
 
