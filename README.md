@@ -9,9 +9,9 @@
 
 - Developed by fateme imani
 
-- Created - 2024-02-28
+- Created - 2024-03-03
 
-- Technologies Used - Html , css
+- Technologies Used - bootstrap , sass
 
 - How to reach me : with my [instagram](https://www.instagram.com/fatemeimanii-dev) and [linkedin](https://www.linkedin.com/in/fateme-imani-5370a2221/)
 is is my first project by using bootstrap
