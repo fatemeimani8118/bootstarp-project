@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Cinta';
+    src: local('Cinta Heavy'), local('Cinta-Heavy'),
+        url('CintaHeavy.woff2') format('woff2'),
+        url('CintaHeavy.woff') format('woff'),
+        url('CintaHeavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
